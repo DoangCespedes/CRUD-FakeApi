@@ -1,0 +1,39 @@
+{
+  "Personajes": [
+    {
+      "id": 1,
+      "name": "Goku",
+      "race": "Sayayin"
+    },
+    {
+      "id": 2,
+      "name": "krillin",
+      "race": "human"
+    },
+    {
+      "id": 3,
+      "name": "Picolo",
+      "race": "Nameku"
+    },
+    {
+      "id": 4,
+      "name": "18",
+      "race": "Androide"
+    },
+    {
+      "id": 5,
+      "name": "Vegetta",
+      "race": "Sayayin"
+    },
+    {
+      "id": 6,
+      "name": "Kaiosama",
+      "race": "Kaio"
+    },
+    {
+      "id": 1648600401893,
+      "name": "Doang Céspedes",
+      "race": "human"
+    }
+  ]
+}
